@@ -1,0 +1,8 @@
+﻿## Interface: 11200
+
+## Title: PriestBinds
+## Notes: Provides spells in keybind menu.
+## Author: Numielle
+## Version: 0.1
+
+PriestBinds.lua

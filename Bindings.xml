@@ -1,0 +1,64 @@
+<Bindings>
+	<Binding name="DISC_DM" header="PRIESTBINDS">CastSpellByName(BINDING_NAME_DISC_DM)</Binding>
+	<Binding name="DISC_DS">CastSpellByName(BINDING_NAME_DISC_DS)</Binding>
+	<Binding name="DISC_IFI">CastSpellByName(BINDING_NAME_DISC_IFI)</Binding>
+	<Binding name="DISC_IFO">CastSpellByName(BINDING_NAME_DISC_IFO)</Binding>
+	<Binding name="DISC_LEV">CastSpellByName(BINDING_NAME_DISC_LEV)</Binding>
+	<Binding name="DISC_MB">CastSpellByName(BINDING_NAME_DISC_MB)</Binding>
+	<Binding name="DISC_PI">CastSpellByName(BINDING_NAME_DISC_PI)</Binding>
+	<Binding name="DISC_PWF">CastSpellByName(BINDING_NAME_DISC_PWF)</Binding>
+	<Binding name="DISC_PWS">CastSpellByName(BINDING_NAME_DISC_PWS)</Binding>
+	<Binding name="DISC_POF">CastSpellByName(BINDING_NAME_DISC_POF)</Binding>
+	<Binding name="DISC_POS">CastSpellByName(BINDING_NAME_DISC_POS)</Binding>
+	<Binding name="DISC_SU">CastSpellByName(BINDING_NAME_DISC_SU)</Binding>
+	
+	<Binding name="HOLY_AD" header="HOLY">CastSpellByName(BINDING_NAME_HOLY_AD)</Binding>
+	<Binding name="HOLY_CD">CastSpellByName(BINDING_NAME_HOLY_CD)</Binding>
+	<Binding name="HOLY_FH1">CastSpellByName(BINDING_NAME_HOLY_FH1)</Binding>
+	<Binding name="HOLY_FH2">CastSpellByName(BINDING_NAME_HOLY_FH2)</Binding>
+	<Binding name="HOLY_FH3">CastSpellByName(BINDING_NAME_HOLY_FH3)</Binding>
+	<Binding name="HOLY_FH4">CastSpellByName(BINDING_NAME_HOLY_FH4)</Binding>
+	<Binding name="HOLY_FH5">CastSpellByName(BINDING_NAME_HOLY_FH5)</Binding>
+	<Binding name="HOLY_FH6">CastSpellByName(BINDING_NAME_HOLY_FH6)</Binding>
+	<Binding name="HOLY_FH7">CastSpellByName(BINDING_NAME_HOLY_FH7)</Binding>
+	<Binding name="HOLY_GH1">CastSpellByName(BINDING_NAME_HOLY_GH1)</Binding>
+	<Binding name="HOLY_GH2">CastSpellByName(BINDING_NAME_HOLY_GH2)</Binding>
+	<Binding name="HOLY_GH3">CastSpellByName(BINDING_NAME_HOLY_GH3)</Binding>
+	<Binding name="HOLY_GH4">CastSpellByName(BINDING_NAME_HOLY_GH4)</Binding>
+	<Binding name="HOLY_GH5">CastSpellByName(BINDING_NAME_HOLY_GH5)</Binding>
+	<Binding name="HOLY_H1">CastSpellByName(BINDING_NAME_HOLY_H1)</Binding>
+	<Binding name="HOLY_H2">CastSpellByName(BINDING_NAME_HOLY_H2)</Binding>
+	<Binding name="HOLY_H3">CastSpellByName(BINDING_NAME_HOLY_H3)</Binding>
+	<Binding name="HOLY_H4">CastSpellByName(BINDING_NAME_HOLY_H4)</Binding>
+	<Binding name="HOLY_HF">CastSpellByName(BINDING_NAME_HOLY_HF)</Binding>
+	<Binding name="HOLY_LH1">CastSpellByName(BINDING_NAME_HOLY_LH1)</Binding>
+	<Binding name="HOLY_LH2">CastSpellByName(BINDING_NAME_HOLY_LH2)</Binding>
+	<Binding name="HOLY_LH3">CastSpellByName(BINDING_NAME_HOLY_LH3)</Binding>
+	<Binding name="HOLY_PH1">CastSpellByName(BINDING_NAME_HOLY_PH1)</Binding>
+	<Binding name="HOLY_PH2">CastSpellByName(BINDING_NAME_HOLY_PH2)</Binding>
+	<Binding name="HOLY_PH3">CastSpellByName(BINDING_NAME_HOLY_PH3)</Binding>
+	<Binding name="HOLY_PH4">CastSpellByName(BINDING_NAME_HOLY_PH4)</Binding>
+	<Binding name="HOLY_PH5">CastSpellByName(BINDING_NAME_HOLY_PH5)</Binding>	
+	<Binding name="HOLY_R">CastSpellByName(BINDING_NAME_HOLY_R)</Binding>
+	<Binding name="HOLY_REZZ">CastSpellByName(BINDING_NAME_HOLY_REZZ)</Binding>
+	<Binding name="HOLY_SMITE">CastSpellByName(BINDING_NAME_HOLY_SMITE)</Binding>
+	
+	<Binding name="SHADOW_FADE" header="SHADOW">CastSpellByName(BINDING_NAME_SHADOW_FADE)</Binding>
+	<Binding name="SHADOW_MAB">CastSpellByName(BINDING_NAME_SHADOW_MAB)</Binding>
+	<Binding name="SHADOW_MIB">CastSpellByName(BINDING_NAME_SHADOW_MIB)</Binding>
+	<Binding name="SHADOW_MC">CastSpellByName(BINDING_NAME_SHADOW_MC)</Binding>
+	<Binding name="SHADOW_MS">CastSpellByName(BINDING_NAME_SHADOW_MS)</Binding>
+	<Binding name="SHADOW_MV">CastSpellByName(BINDING_NAME_SHADOW_MV)</Binding>
+	<Binding name="SHADOW_POSP">CastSpellByName(BINDING_NAME_SHADOW_POSP)</Binding>
+	<Binding name="SHADOW_PS">CastSpellByName(BINDING_NAME_SHADOW_PS)</Binding>
+	<Binding name="SHADOW_SP">CastSpellByName(BINDING_NAME_SHADOW_SP)</Binding>
+	<Binding name="SHADOW_SWP">CastSpellByName(BINDING_NAME_SHADOW_SWP)</Binding>
+	<Binding name="SHADOW_SWP1">CastSpellByName(BINDING_NAME_SHADOW_SWP1)</Binding>	
+	
+	<Binding name="RACIAL_DP" header="RACIAL">CastSpellByName(BINDING_NAME_RACIAL_DP)</Binding>
+	<Binding name="RACIAL_TOW">CastSpellByName(BINDING_NAME_RACIAL_TOW)</Binding>	
+	
+	<Binding name="CODE_CONSTANT" header="CODE">pb_ConstantHealing()</Binding>
+</Bindings>
+
+
